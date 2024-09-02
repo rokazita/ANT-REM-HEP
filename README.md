@@ -1,2 +1,11 @@
 # ANT-REM-HEP
-Heartbeat related activity in the anterior thalamus differs between phasic and tonic  REM sleep periods
+Open-access scripts and data for the article: Heartbeat related activity in the anterior thalamus differs between phasic and tonic  REM sleep periods
+
+abstract: Rapid eye movement (REM) sleep is a fundamental sleep state associated with diverse functions from elemental physiological processes to higher order neurocognitive functions. A growing body of research indicates that REM sleep with eye movements (phasic REM) differs from REM periods without ocular activity (tonic) in terms of spontaneous and evoked neural responses. Studies using auditory stimulation consistently observed enhanced evoked responses in tonic versus phasic REM, indicating that the external processing is largely diminished when the eyes move during REM sleep. Whereas exteroceptive processing during sleep is widely studies, investigation on interoception (the processing of bodily signals) during sleep is scarce, and limited to scalp electroencephalographic recordings. Here we studied interoceptive processing in a group of epileptic patients (N = 11) by measuring their heartbeat-related neural activity in the anterior nucleus of the thalamus (ANT) during phasic and tonic REM sleep and resting wakefulness. Evoked potentials and beta–low gamma spectral power locked to the heartbeat were significantly different in phasic REM compared to tonic REM and wakefulness. Heartbeat-related neural signals exhibited pronounced inter-trial phase synchronization at lower (7–20 Hz) oscillatory activity in all vigilance states, but reduced gamma synchronization at later time points in phasic REM only. Tonic REM and wakefulness did not show significant differences in heartbeat-related activity in the ANT. Our findings indicate that heartbeat-related neural activity is detectable at the level of the ANT, showing distinct signatures of interoceptive processing in phasic REM compared to tonic REM and wakefulness.
+
+Péter Simor 1,2 , Róka Zita Lilla 1,3 , Orsolya Szalárdy 2 , Zsófia Jordán 4 , László Halász 4 , Loránd Erőss 4 , Dániel Fabó 4 , Róbert Bódizs 2
+
+1 Institute of Psychology, ELTE, Eötvös Loránd University, Budapest 1064, Hungary.
+2 Institute of Behavioural Sciences, Semmelweis University, Budapest 1089, Hungary.
+3 HUN-REN Institute for Computer Science and Control, Budapest, 1111, Hungary
+4 Department of Neurosurgery, Faculty of Medicine, Semmelweis University, Budapest, 1145, Hungary.
